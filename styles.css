@@ -22,7 +22,7 @@ body{
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    padding: 15rem;
+    
     flex-direction: column;
 }
 .main{
